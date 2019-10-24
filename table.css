@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.a{
+    background: linear-gradient( rgb(216, 44, 44),rgba(128, 250, 167, 0.639));
+    opacity: 0.8;
+}
+.b{
+    background: linear-gradient( rgb(233, 217, 217),rgba(222, 255, 5, 0.639));
+    opacity: 0.8;
+}
+.c{
+    background: linear-gradient( rgb(236, 172, 34),rgba(17, 158, 209, 0.639));
+    opacity: 0.8;
+
+}
+.d{
+    background: linear-gradient( rgba(251, 36, 83, 0.836),rgba(197, 200, 198, 0.639));
+    opacity: 0.8;
+}
+.e{
+    background: linear-gradient( rgb(61, 52, 52),rgba(250, 194, 9, 0.639));
+    opacity: 0.8;
+}
+.f{
+    background: linear-gradient( rgb(31, 42, 243),rgba(121, 224, 19, 0.639));
+    opacity: 0.8;
+}
+.g{
+    background: linear-gradient( rgb(134, 240, 29),rgba(221, 248, 229, 0.639));
+    text-align: center;
+    opacity: 0.8;
+}
+.h{
+    background: linear-gradient( rgb(29, 24, 24),rgba(245, 19, 94, 0.639));
+    opacity: 0.8;
+}
+.o{
+    background:linear-gradient( rgb(211, 182, 182),rgba(243, 188, 9, 0.639));
+    
+    text-align: center;
+   
+}
+
+    
